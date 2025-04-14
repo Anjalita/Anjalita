@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalita&label=Profile%20views&color=0e75b6&style=flat" alt="anjalita" /> </p>
 
-- 🌱 I’m currently learning *MERN stack*
+- 🌱 I’m currently learning *Cybersecurity Security Analyst*
 
 - 📫 How to reach me *ajfernandes064@gmail.com*
 
